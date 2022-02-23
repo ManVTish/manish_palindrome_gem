@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = %q{Palindrome Detector}
   spec.description = %q{Learn Enough Ruby palindrome detector}
-  spec.homepage = "https://github.com/ManVTish/ruby_test_suite"
+  spec.homepage = "https://github.com/ManVTish/manish_palindrome_gem"
   spec.required_ruby_version = ">= 2.6.0"
 
   spec.metadata["homepage_uri"] = spec.homepage
