@@ -6,7 +6,7 @@ module ManishPalindrome
 
   # Returns true for a palindrome, false otherwise.
   def palindrome?
-    processed_content == processed_content.reverse
+    processed_content.empty? false : processed_content == processed_content.reverse
   end
   
   def letters
